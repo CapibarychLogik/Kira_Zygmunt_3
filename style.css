@@ -1,3 +1,4 @@
+
 body {
     font-family: sans-serif;
     background-color:#fffe80;
@@ -23,6 +24,8 @@ nav a {
     margin-top: 15px;
     margin-bottom: 15px;
 }
+
+
 
 .head_img {
     width: 700px;
@@ -74,6 +77,7 @@ h2 {
 
 .principle {
     width: 120px;
+    margin: auto;
 }
 
 .slogan {
@@ -110,5 +114,9 @@ a{
 }
 
 article p{
+    display: flex;
+    justify-content: center;
     color:#efc45b ;
 }
+
+
